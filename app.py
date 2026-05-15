@@ -1,5 +1,5 @@
 name = "Srinu"
-age = 24
+age = 30
 skills = ["Python", "Git", "Linux"]
 
 print("Developer Profile")
