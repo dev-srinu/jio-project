@@ -1,5 +1,4 @@
-srinias
-madhukar
-vishu
-ammu
-chitti
+linux 9.00
+shell 8.00
+git 7.00
+maven 8.00
